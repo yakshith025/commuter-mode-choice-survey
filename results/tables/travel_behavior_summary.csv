@@ -1,0 +1,30 @@
+Category,Subcategory,Count,Percentage
+Trip Purpose,Education,10,33.33
+Trip Purpose,Work,10,33.33
+Trip Purpose,Social/Leisure,7,23.33
+Trip Purpose,Shopping/Errands,3,10.0
+Main Travel Mode,Namma Metro,13,43.33
+Main Travel Mode,BMTC Bus,5,16.67
+Main Travel Mode,Cab/Ride-Hailing,4,13.33
+Main Travel Mode,Personal Two-Wheeler,4,13.33
+Main Travel Mode,Auto Rickshaw,3,10.0
+Main Travel Mode,Personal Car,1,3.33
+Trip Frequency,Daily,16,53.33
+Trip Frequency,Once a week,6,20.0
+Trip Frequency,2-4 days/week,4,13.33
+Trip Frequency,Less than once a week,4,13.33
+Travel Time,46-60 min,9,30.0
+Travel Time,Over 60 min,7,23.33
+Travel Time,15-30 min,6,20.0
+Travel Time,31-45 min,5,16.67
+Travel Time,Under 15 min,3,10.0
+Travel Distance,16-25 km,11,36.67
+Travel Distance,8-15 km,7,23.33
+Travel Distance,3-7 km,7,23.33
+Travel Distance,Under 3 km,4,13.33
+Travel Distance,Over 25 km,1,3.33
+Travel Cost,Above ₹200,12,40.0
+Travel Cost,₹101-₹200,7,23.33
+Travel Cost,₹25-₹50,4,13.33
+Travel Cost,Under ₹25,4,13.33
+Travel Cost,₹51-₹100,3,10.0

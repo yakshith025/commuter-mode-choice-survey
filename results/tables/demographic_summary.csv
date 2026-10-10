@@ -1,0 +1,25 @@
+Category,Subcategory,Count,Percentage
+Age Group,18-25 years,14,46.67
+Age Group,26-35 years,13,43.33
+Age Group,36-50 years,2,6.67
+Age Group,Under 18,1,3.33
+Gender,Male,20,66.67
+Gender,Female,9,30.0
+Gender,Non-binary,1,3.33
+Education,Undergraduate,15,50.0
+Education,Postgraduate,10,33.33
+Education,Doctorate/PhD,3,10.0
+Education,Diploma/Vocational,2,6.67
+Income,Below ₹30k,3,10.0
+Income,"₹30,001-₹60k",11,36.67
+Income,"₹60,001-₹1,00,000",9,30.0
+Income,₹1L-₹1.5L,2,6.67
+Income,Above ₹1.5L,5,16.67
+Household Size,1-2,3,10.0
+Household Size,3-4,17,56.67
+Household Size,5-6,7,23.33
+Household Size,7 or more,3,10.0
+Vehicle Ownership,Two-Wheeler,8,26.67
+Vehicle Ownership,Car,10,33.33
+Vehicle Ownership,Two-Wheeler and Car,7,23.33
+Vehicle Ownership,None,5,16.67
